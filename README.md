@@ -4,7 +4,7 @@
 
 - 👨‍💻 I programmed the game [Flappy Bird](https://github.com/semawebdev/flappy-bird) using Javascript, pj5.js, HTML, and CSS
 
-- 👯 I built a social media app [Meeture](https://github.com/semawebdev/meeture) using Node.js, MongoDB, and Bootstrap
+- 👯 I built a social media app [Meeture](https://github.com/Beachvolley-Project/meeture) using Node.js, MongoDB, and Bootstrap
 
 - 🚀 I developed [Reddit 2.0](https://github.com/semawebdev/reddit-2.0) using TypeScript, React, NextJS, SQL, GraphQL, and Tailwind
 
